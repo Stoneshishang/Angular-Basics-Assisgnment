@@ -1,5 +1,7 @@
 # FirstAssignment
 
+This is the [first assignment](https://www.udemy.com/course/the-complete-guide-to-angular-2/learn/practice/266#overview) in Max's Angular class. the components are generated from angular-cli, it's a lot less work and less error pron this way.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.2.
 
 ## Development server
