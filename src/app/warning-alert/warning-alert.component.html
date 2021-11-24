@@ -1,1 +1,12 @@
 <p>warning-alert works!</p>
+
+<input type="text" [(ngModel)]="userName" />
+<h3>User name is {{ userName }}</h3>
+
+<button
+  class="btn btn-primary"
+  [disabled]="this.userName === ''"
+  (click)="onClickReset()"
+>
+  Reset User Name to Empty String
+</button>
